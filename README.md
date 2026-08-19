@@ -72,6 +72,16 @@
 
 ### 📊 GitHub & Problem Solving Activity
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Animation" src="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake.svg" width="98%">
+  </picture>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/priyanshgoel2005">
     <img src="https://github-readme-stats.vercel.app/api?username=priyanshgoel2005&show_icons=true&theme=github_dark&hide_border=false&border_radius=6&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
