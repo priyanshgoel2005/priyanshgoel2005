@@ -1,4 +1,4 @@
-name: Generate Pac-Man Contribution Graph
+name: Generate Pacman Contribution Game
 
 on:
   schedule:
@@ -9,19 +9,19 @@ on:
       - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
       contents: write
 
     steps:
-      - name: Generate Pac-Man SVGs
+      - name: Generate Pacman Game SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: priyanshgoel2005
 
-      - name: Push to Output Branch
+      - name: Deploy SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
