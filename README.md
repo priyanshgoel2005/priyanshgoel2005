@@ -74,10 +74,10 @@
 
 <div align="center">
   <a href="https://github.com/priyanshgoel2005">
-    <img src="https://github-readme-stats.vercel.app/api?username=priyanshgoel2005&show_icons=true&theme=github_dark&hide_border=false&border_radius=6&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=priyanshgoel2005&show_icons=true&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/priyanshgoel2005">
-    <img src="https://streak-stats.demolab.com?user=priyanshgoel2005&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=priyanshgoel2005&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
   </a>
 </div>
 
