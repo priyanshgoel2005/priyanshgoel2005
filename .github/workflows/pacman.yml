@@ -1,4 +1,4 @@
-name: Generate Contribution Animation
+name: Generate Pacman Contribution Game
 
 on:
   schedule:
@@ -16,15 +16,12 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Full Grid Animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Arcade Pac-Man SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: priyanshgoel2005
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to Output Branch
+      - name: Deploy SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
