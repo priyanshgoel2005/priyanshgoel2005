@@ -1,204 +1,100 @@
-# <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers!+%F0%9F%91%8B;I+am+Priyansh" alt="Animated Typing" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Priyansh+Goel;AI+%26+Scalable+Systems+Architecture;C%2B%2B+%7C+Python+%7C+Distributed+Systems+%7C+Cloud" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <strong>Software Engineer at Accenture</strong> &nbsp;|&nbsp; <strong>TIET 2026</strong><br>
+  Focused on High-Performance Backend Architectures, Real-Time Data Pipelines, and Distributed AI Systems.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/priyanshgoel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/priyansh_0401" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
 
 ---
 
+### 🏛️ Engineering Blueprint
 
-
-## 🚀 About Me
-
-**A Passionate Computer Science Student from Thapar Institute**
-
-🔭 **Currently Working On:** Guardian Eye(Smart CCTV project) and PayBand(Payment watch project)  
-🌱 **Currently Learning:** Full Stack Web Development, Data Structures & Algorithms (DSA)  
-💬 **Ask Me About:** Python, C++, Web Development, or Leetcode Strategies  
-
+- ⚡ **Core Rigor:** Solved 400+ algorithmic problems across Graph Theory, Dynamic Programming, and Advanced Data Structures in **C++**; achieved **#1 rank on CodeStudio leaderboard 10+ times**.
+- 🛠️ **Systems & Backend:** Designing high-concurrency routing engines, low-latency microservices, and asynchronous event-driven pipelines.
+- ☁️ **Cloud & Infrastructure:** Provisioning containerized workloads using Docker, Kubernetes patterns, Linux internals, and CI/CD pipelines.
+- 🧠 **AI & Data Engineering:** Building real-time audio/vision feature extraction pipelines and low-latency inference dispatchers.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Core Technology Stack
 
-### 💻 Languages
-<div align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://isocpp.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.rust-lang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  </a>
-</div>
-
-### 🚀 Frameworks
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://opencv.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://fastapi.tiangolo.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  </a>
-</div>
-
-### 🛠️ Tools & Platforms
-<div align="center">
-  <a href="https://www.mongodb.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.npmjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://discord.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="25%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,bash,ts,js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Systems & Cloud</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,git,githubactions" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Data & Storage</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,kafka" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>AI & Frameworks</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,nodejs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+### 🚀 Key Engineered Systems
 
-<div align="center">
-  <a href="https://linkedin.com/in/priyanshgoel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/priyanshgoel0401" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/priyanshgoel0401" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="mailto:priyanshgoel0401@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://leetcode.com/priyansh_0401" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
-  </a>
-</div>
+#### 🚆 **[EzConnect — Multi-Modal Urban Transit Routing Engine](https://github.com/priyanshgoel2005)**
+> **C++ • Graph Algorithms • Priority Queues • Low-Level Design**
+- High-concurrency routing engine modeling multi-layered transit networks (Metro, Bus, Rail).
+- Implemented custom adjacency graphs and Min-Heap priority queues with Dijkstra & BFS for sub-10ms optimal pathfinding.
+- Optimized graph space complexity to $O(V + E)$ and query latency to $O((V + E) \log V)$.
 
-
+#### 👁️ **[GuardianEye — Real-Time Distress Detection Pipeline](https://github.com/priyanshgoel2005)**
+> **Python • OpenCV • Applied ML • WebSockets • Event-Driven Architecture**
+- Low-latency acoustic & visual distress classification system processing live camera feeds.
+- Built an MFCC-based feature extraction pipeline isolating distress signals against residential acoustic background noise.
+- Integrated an asynchronous event dispatcher with WebSockets for sub-second alert delivery.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub & Problem Solving Activity
 
-<a href="https://github.com/priyansh0401" target="_blank">
+<div align="center">
+  <a href="https://github.com/priyanshgoel2005">
+    <img src="https://github-readme-stats.vercel.app/api?username=priyanshgoel2005&show_icons=true&theme=github_dark&hide_border=false&border_radius=6&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/priyanshgoel2005">
+    <img src="https://streak-stats.demolab.com?user=priyanshgoel2005&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/priyanshgoel2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshgoel2005&radius=8&theme=github-dark&area=true&color=58a6ff&line=58a6ff&point=58a6ff&title_color=58a6ff&area_color=1f6feb22&hide_border=false" width="98%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyansh0401/priyansh0401/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake.svg" width="98%">
   </picture>
-</a>
-
-<div align="center">
-  
-  <a href="https://github.com/priyansh0401" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=priyansh0401&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  </a>
-  <a href="https://github.com/priyansh0401" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app?username=priyansh0401&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  </a>
-  <a href="https://github.com/priyansh0401" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh0401&radius=16&theme=github-dark&area=true&order=5&color=2dba4e&hide_title=false&line=2dba4e&point=2dba4e&title_color=2dba4e&area_color=2dba4e" height="300" alt="activity-graph graph"  />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/priyansh0401/count.svg?"  />
 </div>
