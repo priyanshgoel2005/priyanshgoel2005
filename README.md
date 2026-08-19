@@ -10,8 +10,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/priyanshgoel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/priyansh_0401" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="mailto:priyanshgoel0401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/priyansh0401"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -58,13 +56,13 @@
 
 ### 🚀 Key Engineered Systems
 
-#### 🚆 **[EzConnect — Multi-Modal Urban Transit Routing Engine](https://github.com/priyansh0401)**
+#### 🚆 **[EzConnect — Multi-Modal Urban Transit Routing Engine](https://github.com/priyanshgoel2005)**
 > **C++ • Graph Algorithms • Priority Queues • Low-Level Design**
 - High-concurrency routing engine modeling multi-layered transit networks (Metro, Bus, Rail).
 - Implemented custom adjacency graphs and Min-Heap priority queues with Dijkstra & BFS for sub-10ms optimal pathfinding.
 - Optimized graph space complexity to $O(V + E)$ and query latency to $O((V + E) \log V)$.
 
-#### 👁️ **[GuardianEye — Real-Time Distress Detection Pipeline](https://github.com/priyansh0401)**
+#### 👁️ **[GuardianEye — Real-Time Distress Detection Pipeline](https://github.com/priyanshgoel2005)**
 > **Python • OpenCV • Applied ML • WebSockets • Event-Driven Architecture**
 - Low-latency acoustic & visual distress classification system processing live camera feeds.
 - Built an MFCC-based feature extraction pipeline isolating distress signals against residential acoustic background noise.
@@ -75,18 +73,18 @@
 ### 📊 GitHub & Problem Solving Activity
 
 <div align="center">
-  <a href="https://github.com/priyansh0401">
-    <img src="https://github-readme-stats.vercel.app/api?username=priyansh0401&show_icons=true&theme=github_dark&hide_border=false&border_radius=6&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
+  <a href="https://github.com/priyanshgoel2005">
+    <img src="https://github-readme-stats.vercel.app/api?username=priyanshgoel2005&show_icons=true&theme=github_dark&hide_border=false&border_radius=6&include_all_commits=true&count_private=true" height="155" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/priyansh0401">
-    <img src="https://streak-stats.demolab.com?user=priyansh0401&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
+  <a href="https://github.com/priyanshgoel2005">
+    <img src="https://streak-stats.demolab.com?user=priyanshgoel2005&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/priyansh0401">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh0401&radius=8&theme=github-dark&area=true&color=58a6ff&line=58a6ff&point=58a6ff&title_color=58a6ff&area_color=1f6feb22&hide_border=false" width="98%" alt="Activity Graph" />
+  <a href="https://github.com/priyanshgoel2005">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshgoel2005&radius=8&theme=github-dark&area=true&color=58a6ff&line=58a6ff&point=58a6ff&title_color=58a6ff&area_color=1f6feb22&hide_border=false" width="98%" alt="Activity Graph" />
   </a>
 </div>
