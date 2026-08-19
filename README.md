@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://github.com/priyanshgoel2005">
-    <img src="https://github-readme-stats.vercel.app/api?username=priyanshgoel2005&show_icons=true&theme=github_dark&hide_border=false&border_radius=6&rank_icon=github" height="155" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshgoel2005&layout=compact&theme=github_dark&hide_border=false&border_radius=6&langs_count=6" height="155" alt="Top Languages" />
   </a>
   <a href="https://github.com/priyanshgoel2005">
     <img src="https://streak-stats.demolab.com?user=priyanshgoel2005&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
@@ -93,8 +93,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Game Animation" src="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/pacman-contribution-graph.svg">
+    <img alt="Arcade Pacman Game" src="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/pacman-contribution-graph.svg" width="100%">
   </picture>
 </div>
