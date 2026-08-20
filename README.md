@@ -73,25 +73,6 @@
 ### 📊 GitHub & Problem Solving Activity
 
 <div align="center">
-  <a href="https://github.com/priyanshgoel2005">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshgoel2005&layout=compact&theme=github_dark&hide_border=false&border_radius=6&langs_count=6" height="155" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/priyanshgoel2005">
-    <img src="https://streak-stats.demolab.com?user=priyanshgoel2005&theme=github_dark&hide_border=false&border_radius=6" height="155" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/priyanshgoel2005">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshgoel2005&radius=8&theme=github-dark&area=true&color=58a6ff&line=58a6ff&point=58a6ff&title_color=58a6ff&area_color=1f6feb22&hide_border=false" width="98%" alt="Activity Graph" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshgoel2005/priyanshgoel2005/output/pacman-contribution-graph.svg">
